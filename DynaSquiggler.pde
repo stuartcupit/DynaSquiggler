@@ -1,4 +1,5 @@
 // DynaSquiggler by Stuart Cupit
+// developed using processing 3.5.4
 // check source code for global config variables
 // add extra libraries toxiclib, controlP5 and the new video2 manually
 // not required but useful, on windows i've been using manycam https://manycam.com/ to desaturate
